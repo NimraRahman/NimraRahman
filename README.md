@@ -3,11 +3,10 @@
 
 ## Brief Introduction
 
-I am a recent graduate of Telecommunication Engineering from <a href="https://www.https://www.neduet.edu.pk/"> NED University of Engineering and Technology. </a>
-and currently pursuing a Master’s in Information Security.
+​I am a dedicated professional with a Bachelor's degree in Telecommunication Engineering and currently pursuing a Master's in Information Security at <a href="https://www.https://www.neduet.edu.pk/"> NED University of Engineering and Technology. </a>
 
 ## Objective
-My journey has led me to develop a passion for cybersecurity, and I am now inspire to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey has led me to develop a passion for cybersecurity, and I am now aspire to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 <!-- | Network Security & Vulnerability Assessment   | <a href="https://example.com/NCCS">NCCS Internship</a> | -->
@@ -78,7 +77,7 @@ These platforms provide the environment for running various tools and applicatio
 - SOC Automation Project
 
 ## Snapshot
-- 🔭 I’m currently working on Quatum Crytography 
+- 🔭 I’m currently working on Quantum Crytography 
 - 🌱 I’m currently learning Ethical Hacking
 - 👯 I’m looking to collaborate on Reseach Projects 
 - 📫 How to reach me: nimrarahman89@gmail.com
