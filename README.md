@@ -117,18 +117,12 @@ Exploring interpretable machine learning techniques for security classification 
 
 ---
 
-## 🛡️ Machine Learning for Network Threat Detection
+## 🔎 Machine Learning for Threat Detection
 
 Investigating machine learning approaches for identifying anomalous and potentially malicious network traffic.
 
 **Research considerations:**
 Dataset imbalance · Feature engineering · Classification · False positives · Model robustness · Explainability
-
----
-
-## 🔎 Security Operations & Detection Lab
-
-Developing a practical environment for investigating security monitoring, event analysis, detection engineering, and incident-response workflows.
 
 ---
 
@@ -190,7 +184,7 @@ I am interested in collaborating with researchers, faculty members, and students
 
 **Cybersecurity · AI/ML Security · Network Security · Application Security · Explainable AI · Security Analytics · Threat Detection**
 
-📧 **Email:** [nimrarahman89@gmail.com](mailto:nimrarahman89@gmail.com)
+📧 **Email:** [nimrarahman37@gmail.com](mailto:nimrarahman37@gmail.com)
 
 <a href="https://www.linkedin.com/in/nimra-rahman-8a421a254/">
 LinkedIn Profile
