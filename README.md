@@ -13,7 +13,7 @@
 
 ## Research Profile
 
-I am a **Telecommunication Engineer and Master's student in Information Security** with research interests at the intersection of **Cybersecurity, Artificial Intelligence/Machine Learning, Network Security, Application Security, and Explainable AI**.
+I am a **Master's student in Information Security** with research interests at the intersection of **Cybersecurity, Artificial Intelligence/Machine Learning, Network Security, Application Security, and Explainable AI**.
 
 My academic trajectory combines foundations in **telecommunications and computer networks** with graduate-level study in **information security** and hands-on experience in cybersecurity, machine learning, and research.
 
