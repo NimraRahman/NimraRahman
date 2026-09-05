@@ -1,6 +1,6 @@
 # Engr. Nimra Rahman
 
-### Cybersecurity Researcher | AI/ML for Security | Network & Application Security
+### Cybersecurity Researcher | Cybersecurity Analyst | AI/ML for Security | Network & Application Security
 
 <p align="left">
 <a href="https://www.linkedin.com/in/nimra-rahman-8a421a254/">
