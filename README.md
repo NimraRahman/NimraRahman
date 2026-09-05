@@ -76,19 +76,19 @@ Developed an integrated **EEG–Deep Learning–IoT–Cloud system** for imagine
 
 My current research interests focus on developing **data-driven and explainable approaches to cybersecurity**, particularly:
 
-### 01 — AI/ML for Cybersecurity
+### AI/ML for Cybersecurity
 
 Investigating machine learning methods for threat detection, anomaly detection, security classification, and automated analysis.
 
-### 02 — Explainable Cybersecurity
+### Explainable Cybersecurity
 
 Exploring XAI methods to make security models more interpretable and help analysts understand why models classify events as malicious or benign.
 
-### 03 — Network Security
+### Network Security
 
 Investigating network traffic characteristics, intrusion detection, anomaly detection, and security analytics.
 
-### 04 — Application Security
+### Application Security
 
 Exploring vulnerability identification, secure software development, automated security analysis, and application-layer attacks.
 
