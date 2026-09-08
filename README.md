@@ -28,8 +28,6 @@ My long-term research interest is to investigate how **AI and data-driven method
 * Vulnerability Detection and Security Analytics
 * Anomaly & Threat Detection
 * Adversarial Machine Learning
-* Privacy & Data Protection
-* AI-assisted Cyber Defense
 
 ---
 
