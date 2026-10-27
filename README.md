@@ -1,6 +1,6 @@
 # Engr. Nimra Rahman
 
-### Cybersecurity Researcher | Cybersecurity Analyst | AI/ML for Security | Network & Application Security
+### Artificial Intelligence, Explainable AI, Cybersecurity, Machine Learning, Trustworthy AI, Human-Centred AI, Digital Twins, Federated Learning, Intelligent Healthcare Systems, AI-driven systems, Network security.
 
 <p align="left">
 <a href="https://www.linkedin.com/in/nimra-rahman-8a421a254/">
