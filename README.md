@@ -13,11 +13,11 @@
 
 ## Research Profile
 
-I am a **Master's student in Information Security** with research interests at the intersection of **Cybersecurity, Artificial Intelligence/Machine Learning, Network Security, Application Security, and Explainable AI**.
+I am a hard-working professional committed to trustworthy computing, with a focus on developing reliable, interpretable, and fail-safe AI architectures for high-stakes cybersecurity applications.
 
-My academic trajectory combines foundations in **telecommunications and computer networks** with graduate-level study in **information security** and hands-on experience in cybersecurity, machine learning, and research.
+My academic trajectory combines foundations of **telecommunications and computer networks** with graduate-level study in **information security** and hands-on experience in cybersecurity, machine learning, and research.
 
-My long-term research interest is to investigate how **AI and data-driven methods can improve the detection, analysis, explainability, and resilience of cybersecurity threats**, while addressing practical challenges such as adversarial behavior, model reliability, data imbalance, and interpretability.
+My long term research interest is to investigate how **AI and data-driven methods can improve the detection, analysis, explainability, and resilience of cybersecurity threats**, while addressing practical challenges such as adversarial behavior, model reliability, data imbalance, and interpretability.
 
 ### Research Interests
 
